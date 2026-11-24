@@ -3,3 +3,4 @@ The content in each is twofold: a subfolder containing all assets (music, graphi
 To play, download the part(s) you want and run the .html. That's it!
 
 Special thanks goes to Savo and SuperAj3 for archiving TTT. Extra special thanks goes to falko17 for developing the aaoffline tool.
+If you have any questions, you can reach out to my Blueksy account, @lessthan7pHrain
